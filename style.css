@@ -1,0 +1,32 @@
+.container{
+    background-color:black;
+    width: 2000px;
+    height: 900px;
+}
+.card{
+    width: 500px;
+    height: 2000px;
+    background-color: gray!important;
+}
+#calc-display{
+    text-decoration-color: black;
+    border: 25px;
+    width: 475px;
+    height: 90px;
+    background-color: rgb(211, 241, 241);
+    
+}
+.btn{
+    padding: 2px !important;
+    width: 26px !important;
+    height: 60px !important;
+}
+
+h1{
+    text-align: center;
+    padding-right: 450px;
+    margin-left: 285px !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: 300 !important;
+    
+}
